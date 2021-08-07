@@ -1,0 +1,17 @@
+#circle{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 50%;
+    margin-left: 550px;
+    margin-bottom: 100px;
+
+}
+#square{
+    width: 200px;
+    height: 200px;
+    background-color:mediumaquamarine;
+    border-radius: 5px;
+        margin-left: 550px;
+
+}
